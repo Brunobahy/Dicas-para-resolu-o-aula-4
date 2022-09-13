@@ -1,0 +1,16 @@
+body{
+    width: 90%;
+    margin: 5rem auto;
+}
+h1{
+    text-align: center;
+    font-size: 6rem;
+}
+
+[letra="azul"]{
+    color: blue;
+}
+
+[letra="vermelho"]{
+    color: red;
+}
